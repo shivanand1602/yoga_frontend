@@ -33,7 +33,7 @@ function Signup() {
       errors.batch === ""
     ) {
       axios
-        .post("http://localhost:8081/signup", values)
+        .post("https://yoga-backend-pwf1.onrender.com/signup", values)
         .then((res) => {
           navigate("/completePayment");
         })
