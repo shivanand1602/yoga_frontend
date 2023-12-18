@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Spa Yoga Website
 ![image](https://github.com/shivanand1602/yoga_frontend/assets/88983117/39e57995-f7ca-410e-b2cb-993515296dd2)
 
