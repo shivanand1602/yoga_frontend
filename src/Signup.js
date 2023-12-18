@@ -108,7 +108,7 @@ function Signup() {
               <option>6-7 A.M.</option>
               <option>7-8 A.M.</option>
               <option>8-9 A.M.</option>
-              <option>5-6 A.M.</option>
+              <option>5-6 P.M.</option>
             </select>
           </div>
 
