@@ -1,6 +1,8 @@
 markdown
 Copy code
 # Spa Yoga Website
+![image](https://github.com/shivanand1602/yoga_frontend/assets/88983117/39e57995-f7ca-410e-b2cb-993515296dd2)
+
 
 Welcome to the Spa Yoga Website project! This is a full-stack web application for a yoga website, featuring frontend development with React.js, and backend development with Node.js and MySQL. The project is hosted on Render, and you can visit the live site at [https://spyogasite.onrender.com/](https://spyogasite.onrender.com/).
 
