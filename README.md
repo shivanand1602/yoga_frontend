@@ -21,7 +21,12 @@ Welcome to the Spa Yoga Website project! This is a full-stack web application fo
 - **Homepage:** Informative landing page introducing the yoga center.
 - **Classes Page:** Details about available yoga classes, including schedules and instructors.
 - **Gallery:** A collection of images showcasing yoga poses and activities.
-- **Contact Form:** A form to get in touch with the yoga center or instructor.
+- **Registration Form:** A form to get in touch with the yoga center or instructor .
+ ![image](https://github.com/shivanand1602/yoga_frontend/assets/88983117/f5a93d60-c567-4ac1-a138-03ac28d09530)
+- **Payment Form:** Complete the Payment to join the batch
+   ![image](https://github.com/shivanand1602/yoga_frontend/assets/88983117/800f43d8-e520-4784-885e-b1f109dc61f0)
+
+
 
 ## Tech Stack
 
@@ -35,6 +40,9 @@ Welcome to the Spa Yoga Website project! This is a full-stack web application fo
   - Node.js
   - Express.js
   - MySQL
+  - Real time Database stored on the Clever Cloud
+    ![image](https://github.com/shivanand1602/yoga_frontend/assets/88983117/93c09406-344a-40c8-b773-271fa557535e)
+
 
 - **Hosting:**
   - Render
